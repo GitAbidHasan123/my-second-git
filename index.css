@@ -1,0 +1,13 @@
+h1{
+    color: red;
+    font-size: 30px;
+    font-style: italic;
+    background-color: bisque;
+}
+h2{
+    color: blue;
+    background-color: burlywood;
+    font-style: oblique;
+    font-size: 40x;
+    text-align: center;
+}
